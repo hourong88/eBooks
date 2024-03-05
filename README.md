@@ -8,6 +8,12 @@
 
 English version List， Please click [here](/English-Ebook.md)
 
+**书单推荐：**
+
+[What books a competent programmer should have read](/booklist.md)
+
+[一个合格的程序员应该读过哪些书](/booklist.md)
+
 **下载书籍，直接点击书籍名即可**
 
 **能下载到全网99% PDF电子书的方法 → **[**http://www.chendianrong.com/pdf#IT**](http://www.chendianrong.com/pdf#IT)
