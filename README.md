@@ -2,7 +2,6 @@
 # 超多电子书与视频资料分享
 
 程序员相关电子书资料免费分享，欢迎关注个人微信公众号：**优前程**
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/489986/1709545304228-c87317c0-6034-4642-b132-fbae5fccd3d4.png#averageHue=%23e0e0e0&clientId=u28961338-d32c-4&from=paste&height=107&id=u22f72b98&originHeight=214&originWidth=716&originalType=binary&ratio=2&rotation=0&showTitle=false&size=29640&status=done&style=none&taskId=u98d10f24-dcf6-4a00-9373-650f687f76d&title=&width=158)
 
 如果觉得对你有帮助可以点击文章末尾打赏
 或者点star收藏，感谢！
@@ -899,4 +898,12 @@ English version List， Please click [here](/English-Ebook.md)
 
 整理不易，不介意赞赏一下，祝君 bug 退散
 
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/489986/1709545443294-dbd7cf2d-8ef7-4d31-ab88-f34b65fe8abe.png#averageHue=%23f8f8ef&clientId=u4e22b969-ab45-4&from=paste&height=470&id=u5b29e60a&originHeight=940&originWidth=722&originalType=binary&ratio=2&rotation=0&showTitle=false&size=171362&status=done&style=none&taskId=ucb628f44-6892-40ee-98d3-94978f1cf7e&title=&width=361)![](https://github.com/tangtangcoding/C-C-/blob/main/6.jpg#id=kgQeZ&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=&width=300)
+<img src="https://github.com/hourong88/eBooks/assets/35595174/40a8e5c5-5c55-467e-905b-a7aba80eaf4c" width = "300" alt="WX" align=center />
+
+
+
+
+
+
+
+
